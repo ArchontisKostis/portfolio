@@ -34,12 +34,17 @@ export default function FeaturedProject({ content }, index) {
 			variants={container}
 			initial={[ "rest", "hidden" ]}
 			whileHover="hover"
-			animate={controls} >
+			animate={controls}
+			onClick={() => {
+				window.open(url, '_blank')
+			}}
+		>
 			
 			<div className={css.details}>
 				<div className={css.projectHeader}>
-					<div className={css.header}>
-						<h3 className="highlight">{project}</h3><span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>	
+					<div className={css.header} >
+						<h3 className="highlight">{project}</h3>
+						<span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>
 					</div>
 					<div className={css.description}>
 						<p><strong>{descriptionTitle}</strong> {description}</p>
@@ -47,7 +52,9 @@ export default function FeaturedProject({ content }, index) {
 					<div className={css.stackContainer}>
 						<Badges list={stack} block="stack" fullContainer={false} color={false} />
 					</div>
-					<m.div variants={''} className={css.viewProject}>
+					<m.div variants={''} className={css.viewProject} onClick={() => {
+						window.open(url, '_blank')
+					}}>
 						<Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} />
 					</m.div>
 				</div>

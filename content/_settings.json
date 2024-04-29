@@ -1,15 +1,13 @@
 {
-	"name": "Andrew Nelson",
-	"logo": "",
+	"name": "Archontis E. Kostis",
+	"logo": "content/img/logo.png",
 	
 	"username": {
-		"github": "atlamors",
+		"github": "ArchontisKostis",
 		"medium": "@--andrewnelson"
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"author": "Archontis E. Kostis."
 	}
 }

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e7d8c37-fcb0-4f4a-82db-4b4618b68ece" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/ci-mockup/ci-phone-port.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci-mockup/ci-tab-port.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/me/me 3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/me/me.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/me/me2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/me/meside.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/blocks/projects/featured.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/blocks/projects/featured.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/layout/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/articles/recent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/articles/recent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/index/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/index/about.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/index/hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/index/hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/projects/featured.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/projects/featured.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/projects/recent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/projects/recent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/_settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/footer.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/footer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index/hero.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/index/hero.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/navbar.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/navbar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/featured.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/featured.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2fmP5A3jCzJ4FhXhOW1yCj8Q5EA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Work/Github/portfolio/public/img/ci-mockup",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\arxon\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\232.8660.143\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Github\portfolio\public\img\ci-mockup" />
+      <recent name="D:\Work\Github\portfolio\public\img\me" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Github\portfolio\public\img\ci-mockup" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e7d8c37-fcb0-4f4a-82db-4b4618b68ece" name="Changes" comment="" />
+      <created>1714403094182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714403094182</updated>
+      <workItem from="1714403095202" duration="13010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

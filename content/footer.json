@@ -1,50 +1,37 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
+			"person": "George David Apostolidis - Developer & Academic Researcher",
+			"link": "https://www.linkedin.com/in/geoapos/",
 			"note": "Thank you for all the advice and feedback."
 		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
+		{
+			"person": "OpenSource UoM Team",
+			"link": "https://opensource.uom.gr/",
+			"note": "For the opportunity to contribute to the community and all the things I learned with them."
 		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+		{
+			"person": "Andrew Nelson - Developer & Designer",
+			"link": "https://www.linkedin.com/in/--andrewnelson/",
+			"note": "For developing and open sourcing the theme for this website."
 		}
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
+			"person": "Bachelor Thesis Paper & Defense",
 			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"note": "Evaluation of code quality and hotspot prioritization using Repository Mining."
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/archo-kostis/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/ArchontisKostis",
 			"icon": "github"
 		}
 	]

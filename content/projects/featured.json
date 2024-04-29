@@ -1,10 +1,10 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
-		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"project": "CodeInspector (Bachelor's Thesis)",
+		"url": "https://github.com/ArchontisKostis/CodeInspector",
+		"repo": "Public",
+		"descriptionTitle": "A Full-Stack Software Quality Analysis web app ",
+		"description": "based on hotspot prioritization and commits. ",
 		"imageOptions": [
 		],
 		"images": [
@@ -13,40 +13,80 @@
 			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
 		],
 		"stack": [
-			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
-			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
-			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
-			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
+			{ "key": "python", 	"name": "Python", "type": "devicon" },
+			{ "key": "fastapi", "name": "FastAPI", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "react", "name": "React", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" }
 		]
 	},
 	{
-		"project": "andrewnelson.net",
-		"url": "https://github.com/atlamors/portfolio",
+		"project": "PhysioAssistant (Team Project)",
+		"url": "https://github.com/Android-Development-UoM",
 		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"descriptionTitle": "Android Healthcare Management Platform",
+		"description": " for physiotherapists and patients. ",
 		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
 			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
 		],
 		"stack": [
-			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "java", 		"name": "Java", 		"type": "devicon" },
+			{ "key": "spring", 		"name": "Spring Boot", 		"type": "devicon" },
+			{ "key": "android", 		"name": "Android Studio", 		"type": "devicon" },
+			{ "key": "android", 		"name": "Android App", 		"type": "devicon" },
+			{ "key": "mysql", 	"name": "MySQL", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+
+	{
+		"project": "UoM Quality Dashboard (Team Project)",
+		"url": "https://github.com/SE-UoM/quality-dashboard",
+		"repo": "Public",
+		"descriptionTitle": "Full-Stack Organization based Software Quality ",
+		"description": " Dashboard for the University of Macedonia. ",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "java", 		"name": "Java", 		"type": "devicon" },
+			{ "key": "spring", 		"name": "Spring Boot", 		"type": "devicon" },
+			{ "key": "typescript", 		"name": "Typescript", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
-			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "bootstrap", 		"name": "ReactBootstrap", 		"type": "devicon" },
+			{ "key": "postgresql", 	"name": "PostgreSQL", 	"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "sonarqube",			"name": "SonarQube", 	"type": "devicon" }
+		]
+	},
+
+	{
+		"project": "miloxaraktis.gr",
+		"url": "https://www.miloxaraktis.gr",
+		"repo": "Private",
+		"descriptionTitle": "Company Website & Branding",
+		"description": "for Miloxaraktis S.A.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+
+		],
+		"stack": [
+			{ "key": "javascript", 		"name": "JavaScript", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "php", 		"name": "PHP", 		"type": "devicon" },
+			{ "key": "html5", 		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3", 	"name": "CSS3", 	"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
 		]
 	}

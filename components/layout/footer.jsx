@@ -46,7 +46,7 @@ export default function Footer() {
 						}
 					</ul>
 					<ul className={css.links}>
-						<li><h4>Links</h4></li>
+						<li><h4>More Links</h4></li>
 						{
 						content.links.map( ({ person, link, note }, index) => {
 							return (
@@ -72,17 +72,7 @@ export default function Footer() {
 					</ul>
 				</section>
 				<section className={css.github}>
-					<a href={settings.portfolio.repo_html} rel="noreferrer" target="_blank">
-						<h5>{settings.portfolio.forkthis}</h5>
-						<ul>
-							<li>
-								<p><Icon icon={[ 'fad', 'code-branch' ]} /> Forks: { gitHubInfo.forks }</p>
-							</li>
-							<li>
-								<p><Icon icon={[ 'fad', 'star' ]} /> Stars: { gitHubInfo.stars }</p>
-							</li>
-						</ul>
-					</a>
+					{new Date().getFullYear()} - {settings.portfolio.author}
 				</section>
 			</Container>
 			<canvas id="gradient-canvas" className={''} data-transition-in ></canvas>
